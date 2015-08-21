@@ -15,5 +15,27 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/txtQuoteId"
-        android:hint="Enter in Quote ID" />
+        android:hint="Enter Quote ID" />
+    <TextView
+        android:text="Part Number:"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPartNumberLabel" />
+    <EditText
+        android:inputType="number"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtPartNumber"
+        android:hint="Enter Part Number" />
+    <Button
+        android:id="@+id/btnAttachImage"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:text="Attach Image" />
+    <ImageView
+        android:src="@android:drawable/ic_menu_gallery"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:id="@+id/partImage" />
 </LinearLayout>
