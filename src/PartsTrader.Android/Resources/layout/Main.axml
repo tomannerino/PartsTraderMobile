@@ -28,6 +28,11 @@
         android:layout_height="wrap_content"
         android:id="@+id/txtPartNumber"
         android:hint="Enter Part Number" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/txtImageUri"
+        android:visibility="invisible" />
     <Button
         android:id="@+id/btnAttachImage"
         android:layout_width="fill_parent"
@@ -35,7 +40,12 @@
         android:text="Attach Image" />
     <ImageView
         android:src="@android:drawable/ic_menu_gallery"
-        android:layout_width="fill_parent"
-        android:layout_height="fill_parent"
+        android:layout_width="320px"
+        android:layout_height="320px"
         android:id="@+id/partImage" />
+    <Button
+        android:text="Upload"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/btnUpload" />
 </LinearLayout>

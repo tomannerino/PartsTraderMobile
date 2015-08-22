@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="PartsTrader.Android.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.AVD_for_Nexus_5_by_Google" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="MainActivity.cs">
+    <Files>
+      <File FileName="MainActivity.cs" Line="91" Column="41" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\ptml-github\PartsTraderMobile\src\PartsTrader.Android\MainActivity.cs" line="42" column="1" />
+      <Breakpoint file="D:\ptml-github\PartsTraderMobile\src\PartsTrader.Android\MainActivity.cs" line="124" column="1" />
+      <Breakpoint file="D:\ptml-github\PartsTraderMobile\src\PartsTrader.Android\MainActivity.cs" line="138" column="1" />
+      <Breakpoint file="D:\ptml-github\PartsTraderMobile\src\PartsTrader.Android\MainActivity.cs" line="77" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.PartsTrader.Android AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

@@ -66,11 +66,17 @@ namespace PartsTrader.Android
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f060004
-			public const int btnAttachImage = 2131099652;
-			
 			// aapt resource value: 0x7f060005
-			public const int partImage = 2131099653;
+			public const int btnAttachImage = 2131099653;
+			
+			// aapt resource value: 0x7f060007
+			public const int btnUpload = 2131099655;
+			
+			// aapt resource value: 0x7f060006
+			public const int partImage = 2131099654;
+			
+			// aapt resource value: 0x7f060004
+			public const int txtImageUri = 2131099652;
 			
 			// aapt resource value: 0x7f060003
 			public const int txtPartNumber = 2131099651;
